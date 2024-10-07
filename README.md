@@ -1,2 +1,2 @@
 # GNU-Terminal
-GNU based custom terminal using C++
+making my own terminal that will be executed in terminal lol
