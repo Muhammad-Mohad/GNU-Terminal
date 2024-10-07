@@ -25,5 +25,4 @@ void ExecuteCommand(string& command)
         cout << "Invalid Command" << endl;
         system("pause");
     }
-    // Window();
 }
